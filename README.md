@@ -19,7 +19,7 @@ Our experiments were designed to ensure the plausibility of our ideas. We were a
 ## Final Design:
 Because our solution needed to be deployed in a variety of different environments with low cost and minimal maintenance, we designed modular lighting elements that have stand-alone utility but can be chained together to light continuous lengths of an area instead of discrete points. In order to solve the issue of maintenance, we used a combination of sensors to ensure that the circuit had an appropriately long battery life.
 
-<img src="safety.png" style="display:flex;">
+<img src="safety.png" width="auto" height="400px"  style="display:flex;">
 
 
 ### Team:
