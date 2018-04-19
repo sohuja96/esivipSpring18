@@ -1,7 +1,7 @@
 # Community Safety Lighting
 ## Our Mission:
 Making communities safer by bringing light to otherwise dark streets
-![Home Park Criminal Activity Density](homeparkcrime.jpg)
+![Home Park Criminal Activity Density](homeparkcrime.jpg=260x)
 ## Motivation:
 At Georgia Tech, a common area for student housing is the Home Park community. Just north of campus, Home Park is a lightly wooded residential area with a reputation for having inadequite safety. Part of this problem stems from the perception of safety because it is a poorly-lit area. Our solution aims at being able to light communities like these without relying on exising infrastructure.
 ## Approach:
