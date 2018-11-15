@@ -1,26 +1,24 @@
-# Community Safety Lighting
+# Eli Rice Seeder
 ## Our Mission:
-Making communities safer by bringing light to otherwise dark streets
+Reducing the manpower needed to operate the rice seeder.
 
 <img src="./homeparkcrime.jpg" width="auto" height="200px" style="display:flex;">
 
 ## Motivation:
-At Georgia Tech, a common area for student housing is the Home Park community. Just north of campus, Home Park is a lightly wooded residential area with a reputation for having inadequite safety. Part of this problem stems from the perception of safety because it is a poorly-lit area. Our solution aims at being able to light communities like these without relying on exising infrastructure.
+The populations of rural Cambodia have been in decline since young people prefer to work in more industrial areas. In order to reduce the amount of work needed to seed a field, the Eli Rice Seeder was created to maintain agricultural output with a shrinking population. However, it's still a complex piece of equipment that takes at least two people to operate. 
 
 <img src="./circuit.jpg" width="auto" height="200px" style="display:flex;">
 
 ## Approach:
-Our approach was to create a lighting system independent of existing energy infrastructure in order to deploy the final product in communities where resources are already spread thin, as energy companies are less motivated to invest in those spaces.
-## Experiments:
-Our experiments were designed to ensure the plausibility of our ideas. We were able to test the plausibility of using circuits with LED's for wide-area lighting, infrared sensors for long-distance chaining, and motion sensor / solar sensor combinations for effectively preserving energy.
+Our approach was to reduce the amount of physical stress and focused attention needed to operate the machine. There was an existing rice seeder model in production, so it was best to design around the existing hardware. For this reason and because of the constraints of population and available resources in rural Cambodia, we had two main approaches: either attach a component to the surface of the seeder, or rearrange the components already on the seeder.
 
 <img src="./diagram.png" width="auto" height="200px" style="display:flex;">
 
 ## Final Design:
-Because our solution needed to be deployed in a variety of different environments with low cost and minimal maintenance, we designed modular lighting elements that have stand-alone utility but can be chained together to light continuous lengths of an area instead of discrete points. In order to solve the issue of maintenance, we used a combination of sensors to ensure that the circuit had an appropriately long battery life.
+We solved the design constraints of energy, complexity, and manpower by pulling the mechanical interfaces closer to the body of the driver, including the steering mechanism and seed-blowing lever. The first improvement was to change a long steering arm to a wheel, so that the driver could stay in one place on the machine, at the expense of having a larger steering radius. Finally, we created an extra set of levers so that the driver would have a foot-pedal with which they could use hands-free motion raise and lower the seed blower, allowing them to steer and operate the blower lever.
 
 <img src="./safety.png" width="auto" height="400px"  style="display:flex;">
 
 
 ### Team:
-This project is the work of Nathan Chow, Adrianna Fu, Joshua Santillo, and Max Zhou
+This project is the work of Joshua Santillo and Irene Vargas
